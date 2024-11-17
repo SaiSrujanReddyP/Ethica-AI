@@ -66,4 +66,4 @@ Visit [http://localhost:3000](http://localhost:3000) in your web browser to expl
 
 ---
 
-Happy coding! 🚀
+Thank you for visiting our repository. Happy coding! 🚀
