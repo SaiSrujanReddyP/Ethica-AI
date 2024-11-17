@@ -18,7 +18,8 @@
 ## <a name="tech-stack">⚙️ Tech Stack</a>
 
 - **Next.js**  
-- **React.js**  
+- **React.js**
+- **Typescript**
 - **Tailwind CSS**  
 - **Clerk**
 
